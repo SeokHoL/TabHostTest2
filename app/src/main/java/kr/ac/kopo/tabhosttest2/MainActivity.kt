@@ -59,11 +59,11 @@ class MainActivity : AppCompatActivity() , ActionBar.TabListener {
     }
 
     override fun onTabUnselected(tab: ActionBar.Tab?, ft: FragmentTransaction?) {
-        TODO("Not yet implemented")
+
     }
 
     override fun onTabReselected(tab: ActionBar.Tab?, ft: FragmentTransaction?) {
-        TODO("Not yet implemented")
+
     }
 
     //탭을 선택하면 변경되는 content로 Fragment를 사용
